@@ -1,0 +1,19 @@
+{
+  "name": "vuepress",
+  "version": "1.0.0",
+  "repository": "https://github.com/capriosa/vuepress-deploy",
+  "description": "Starter template for a VuePress site",
+  "author": "Meinolf Droste <mdwp.post@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "devDependencies": {
+    "vuepress": "^0.6.0"
+  },
+  "dependencies": {
+    "eslint": "^4.19.1",
+    "npm": "^5.8.0"
+  }
+}
